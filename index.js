@@ -8,5 +8,4 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-var newID = oldID;
-var '1000000068' = '68';
+var newID = oldID = 1000000068;
