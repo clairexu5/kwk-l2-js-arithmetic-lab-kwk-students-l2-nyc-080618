@@ -8,5 +8,4 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-Boolean ageIsValid;
-ageIsValid == Number;
+ageIsValid.isInteger()
